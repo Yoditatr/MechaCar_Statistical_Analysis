@@ -13,6 +13,13 @@ In this analysis we are:
 - Running t-tests to determine if the manufacturing lots are statistically different from the mean population
 - Designing a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
 
+The data used for the analysis:
+
+[MechaCar_mpg.csv](https://github.com/Yoditatr/MechaCar_Statistical_Analysis/blob/main/Resources/MechaCar_mpg.csv)
+
+[Suspension_Coil.csv](https://github.com/Yoditatr/MechaCar_Statistical_Analysis/blob/main/Resources/Suspension_Coil.csv)
+
+
 The linear regression script producces the below results. 
 
 ![alt text](https://github.com/Yoditatr/MechaCar_Statistical_Analysis/blob/main/Resources/Linear%20Reg.PNG?raw=true)
