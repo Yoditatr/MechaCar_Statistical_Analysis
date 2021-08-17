@@ -6,6 +6,13 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
 
 Furthermore, I designed a linear model that predicts the mpg of MechaCar prototypes using several variables including vehicle length, weight, spoiler angle, drivetrain and ground clearance. To create the linear regression, I read the data csv file, used the lm() function to create the linear regression, and used the summary() function to produce the summary statistics.
 
+In this analysis we are:
+
+- Performing multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes
+- Collecting summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
+- Running t-tests to determine if the manufacturing lots are statistically different from the mean population
+- Designing a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
+
 The linear regression script producces the below results. 
 
 ![alt text](https://github.com/Yoditatr/MechaCar_Statistical_Analysis/blob/main/Resources/Linear%20Reg.PNG?raw=true)
