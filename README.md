@@ -28,3 +28,5 @@ The linear regression script producces the below results.
 - According to my results, vehicle length and ground clearance are statistically likely to provide non-random amounts of variance to the model or are most likely to affect the miles per gallon performance of the MechaCar's AutosRUs prototype.
 - Given the model's p-value of 5.35e-11, which is lower than the 0.05 assumed statistical significance, there is strong evidence against the null hypothesis (slope = 0). Therefore, the slope of the linear model is not considered to be zero.
 - The model's R-squared value is 0.7149. Hence, the model predicts MPG of MechaCar effectively at a 71% rate. In other words, the variables of vehicle length, spoiler angle, ground clearance, and AWD have a strong positive association with mpg. Therefore, this model effectively predicts mpg of MechaCar prototypes.
+
+### Summary Statistics on Suspension Coils
