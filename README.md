@@ -77,3 +77,11 @@ T-Test for Lot 3
 
 The t-test for lot3 manufacturing have a p-value of 0.04, i.e. we can reject the null hypothesis since we have enough evidence to. Therefore, the mean PSI for lot3 manufacturing is statistically different from the population mean of 1,500 pounds per square inch.
 
+
+## _Study Design: MechaCar vs Competitors_
+
+In todays world, one of the most important factors that consumers consider when looking to buy for a new car is the safety rating. 
+
+It would be useful to perform a statistical study to compare the safety ratings of MechaCar vehicles against the safety ratings of vehicles from other manufacturers. 
+
+The T testing will help us determine if MechaCar's vehicles' safety rating scores are statistically different from its competitors as a whole and then statistically different from each competitor.
