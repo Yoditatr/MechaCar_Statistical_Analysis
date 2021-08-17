@@ -19,6 +19,7 @@ The data used for the analysis:
 
 [Suspension_Coil.csv](https://github.com/Yoditatr/MechaCar_Statistical_Analysis/blob/main/Resources/Suspension_Coil.csv)
 
+### _Linear Regression to Predict MPG_
 
 The linear regression script producces the below results. 
 
