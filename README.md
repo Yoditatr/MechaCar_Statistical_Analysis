@@ -57,4 +57,4 @@ T-Test for All Manufacturing Lots
 
 ![alt text](https://github.com/Yoditatr/MechaCar_Statistical_Analysis/blob/main/Resources/ttest_all.PNG?raw=true)
 
-The t-test for all manufacturing lots had a p-value of 0.06, meaning that there is enough evidence to reject the null hypothesis. Therefore, the mean PSI of all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch.
+The t-test for all manufacturing lots had a p-value of 0.06, i.e. we can reject the null hypothesis since we have enough evidence to. Therefore, the mean PSI of all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch.
