@@ -50,10 +50,11 @@ The design specifications for the MechaCar suspension coils dictated that the va
 
 ## _T-Tests on Suspension Coils_
 I performed t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
+
 The results of my script is as follows. 
 
 T-Test for All Manufacturing Lots 
 
 ![alt text](https://github.com/Yoditatr/MechaCar_Statistical_Analysis/blob/main/Resources/ttest_all.PNG?raw=true)
 
-The t test result on all the lots is as follows. Since the p-value is 0.5, more than our significance value of 0.05, we FAIL to reject the NULL hypothesis for all manufacturing lots grouped together.
+The t-test for all manufacturing lots had a p-value of 0.06, meaning that there is enough evidence to reject the null hypothesis. Therefore, the mean PSI of all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch.
