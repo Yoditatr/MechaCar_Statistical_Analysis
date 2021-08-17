@@ -29,7 +29,7 @@ The linear regression script producces the below results.
 - Given the model's p-value of 5.35e-11, which is lower than the 0.05 assumed statistical significance, there is strong evidence against the null hypothesis (slope = 0). Therefore, the slope of the linear model is not considered to be zero.
 - The model's R-squared value is 0.7149. Hence, the model predicts MPG of MechaCar effectively at a 71% rate. In other words, the variables of vehicle length, spoiler angle, ground clearance, and AWD have a strong positive association with mpg. Therefore, this model effectively predicts mpg of MechaCar prototypes.
 
-### Summary Statistics on Suspension Coils
+### _Summary Statistics on Suspension Coils_
 
 The MechaCar Suspension_Coil.csv dataset contains the results from multiple production lots. In this dataset, the weight capacities of multiple suspension coils were tested to determine if the manufacturing process is consistent across production lots. We are creating a summary statistics table to show:
 
@@ -47,3 +47,5 @@ Per Lot Summary Statistics
 ![alt text](https://github.com/Yoditatr/MechaCar_Statistical_Analysis/blob/main/Resources/Lot%20Summary.PNG?raw=true)
 
 The design specifications for the MechaCar suspension coils dictated that the variance of the suspension coils must not exceed 100 pounds per square inch. Based on these specifications, the current manufacturing data does meet the criteria for all the lots in total as the variance is 62.29. But when we see the individual lot summaries, Lots 1 and 2 meet the specifications with variances of 0.98 and 7.47 respectively, but Lot 3 has a variance of 170.29 which well exceeds the maximum of 100 pounds per square inch.
+
+_T-Tests on Suspension Coils_
