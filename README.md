@@ -46,6 +46,14 @@ Per Lot Summary Statistics
 
 ![alt text](https://github.com/Yoditatr/MechaCar_Statistical_Analysis/blob/main/Resources/Lot%20Summary.PNG?raw=true)
 
-The design specifications for the MechaCar suspension coils dictated that the variance of the suspension coils must not exceed 100 pounds per square inch. Based on these specifications, the current manufacturing data does meet the criteria for all the lots in total as the variance is 62.29. But when we see the individual lot summaries, Lots 1 and 2 meet the specifications with variances of 0.98 and 7.47 respectively, but Lot 3 has a variance of 170.29 which well exceeds the maximum of 100 pounds per square inch.
+The design specifications for the MechaCar suspension coils dictated that the variance of the suspension coils must not exceed 100 pounds per square inch. Based on these specifications, When looking at the entire population of the production lot, the variance of the coils is 62.29 PSI, which is well within the 100 PSI variance requirement. But when we see the individual lot summaries, Lots 1 and 2 meet the specifications with variances of 0.98 and 7.47 respectively, but Lot 3 has a variance of 170.29 which well exceeds the maximum of 100 pounds per square inch.
 
 ## _T-Tests on Suspension Coils_
+I performed t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
+The results of my script is as follows. 
+
+T-Test for All Manufacturing Lots 
+
+![alt text](https://github.com/Yoditatr/MechaCar_Statistical_Analysis/blob/main/Resources/ttest_all.PNG?raw=true)
+
+The t test result on all the lots is as follows. Since the p-value is 0.5, more than our significance value of 0.05, we FAIL to reject the NULL hypothesis for all manufacturing lots grouped together.
